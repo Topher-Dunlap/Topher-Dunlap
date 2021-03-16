@@ -10,7 +10,7 @@ Nice to meet you! I am a full-stack developer with current experience using HTML
 - 👯 I’m looking to collaborate on anything javascript!
 - 🤔 I’m looking for help with finding a developer position
 - 💬 Ask me about myself or my code
-- 📫 How to reach me: developerdunlap@gmail.com@gmail.com
+- 📫 How to reach me: developerdunlap@gmail.com
 - 📱 How to reach me: 641-430-3840
 
 - 🏃🏻‍♂️ Fun fact: I have a degree in Jazz Saxophone and used to teach Dance (<em>Before the Pandemic.</em>)
