@@ -2,18 +2,15 @@
 
 ### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Topher
 
-Nice to meet you! I am a full-stack developer with current experience using HTML/CSS/Javascript/jQuery/React to build web apps on the front end and Node.js, Express and PostgreSQL on the backend. With an extensive background in Information Technology, the smallest details matter, and that is something equally important in programming. I'm not afraid to ask why, and I thrive when I can understand the end goal while diving into the details. Constantly looking to learn and expand my knowledge base is something I strive for each and every day.
+Nice to meet you! I am a full-stack developer building web apps with React.js, Node.js and Java. With an extensive background in Information Technology, the smallest details matter, and that is something equally important in programming. I'm a curious person, and I thrive when I can understand the end goal while diving into the details. Constantly looking to learn and expand my knowledge base is something I strive for each and every day.
 <br>
 
-- 🔭 Recently finished a 9 month Full Stack Software Engineering program.
-- 💻 Check out my portfolio at <a href="https://portfolio-mauve-two.vercel.app/">https://portfolio-mauve-two.vercel.app/</a>
-- 👯 I’m looking to collaborate on anything javascript!
-- 🤔 I’m looking for help with finding a developer position
+- 🔭 Currently a Full-Stack Developer for Best Buy.
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: developerdunlap@gmail.com
 - 📱 How to reach me: 641-430-3840
 
-- 🏃🏻‍♂️ Fun fact: I have a degree in Jazz Saxophone and used to teach Dance (<em>Before the Pandemic.</em>)
+- 🏃🏻‍♂️ Fun fact: I have a degree in Jazz Saxophone and occasionally teach Dance (<em>Before the Pandemic.</em>)
 
 ### Find me on
 
